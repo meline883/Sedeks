@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/meline883.github.io/Sedeks/static/css/main.e2981c08.css",
+    "main.js": "/meline883.github.io/Sedeks/static/js/main.770bb332.js",
+    "static/media/seed.jpg": "/meline883.github.io/Sedeks/static/media/seed.b77c0aaf93dd51f48952.jpg",
+    "index.html": "/meline883.github.io/Sedeks/index.html",
+    "main.e2981c08.css.map": "/meline883.github.io/Sedeks/static/css/main.e2981c08.css.map",
+    "main.770bb332.js.map": "/meline883.github.io/Sedeks/static/js/main.770bb332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2981c08.css",
+    "static/js/main.770bb332.js"
+  ]
+}
