@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/meline883.github.io/Sedeks/static/css/main.8f28cebd.css",
-    "main.js": "/meline883.github.io/Sedeks/static/js/main.c067258d.js",
+    "main.css": "/meline883.github.io/Sedeks/static/css/main.e2981c08.css",
+    "main.js": "/meline883.github.io/Sedeks/static/js/main.770bb332.js",
     "static/media/seed.jpg": "/meline883.github.io/Sedeks/static/media/seed.b77c0aaf93dd51f48952.jpg",
     "index.html": "/meline883.github.io/Sedeks/index.html",
-    "main.8f28cebd.css.map": "/meline883.github.io/Sedeks/static/css/main.8f28cebd.css.map",
-    "main.c067258d.js.map": "/meline883.github.io/Sedeks/static/js/main.c067258d.js.map"
+    "main.e2981c08.css.map": "/meline883.github.io/Sedeks/static/css/main.e2981c08.css.map",
+    "main.770bb332.js.map": "/meline883.github.io/Sedeks/static/js/main.770bb332.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f28cebd.css",
-    "static/js/main.c067258d.js"
+    "static/css/main.e2981c08.css",
+    "static/js/main.770bb332.js"
   ]
 }
